@@ -1,0 +1,13 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:cytrus_log"
+    }
+  ],
+  "result": {
+    "item": "haileymod:cytrus_planks",
+    "count": 4
+  }
+}

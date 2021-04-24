@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "haileymod:blocks/cytrus_log_top",
+    "up": "haileymod:blocks/cytrus_log_top",
+    "north": "haileymod:blocks/cytrus_log_side",
+    "east": "haileymod:blocks/cytrus_log_side",
+    "south": "haileymod:blocks/cytrus_log_side",
+    "west": "haileymod:blocks/cytrus_log_side",
+    "particle": "haileymod:blocks/cytrus_log_top"
+  }
+}

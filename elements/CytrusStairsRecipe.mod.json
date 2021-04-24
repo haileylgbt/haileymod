@@ -1,0 +1,46 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      },
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      },
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      },
+      {
+        "value": "CUSTOM:CytrusPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CytrusStairs"
+    },
+    "name": "cytrus_stairs_recipe",
+    "namespace": "mod"
+  }
+}

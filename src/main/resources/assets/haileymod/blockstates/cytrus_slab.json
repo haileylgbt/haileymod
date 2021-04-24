@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "haileymod:block/cytrus_slab"
+    },
+    "type=top": {
+      "model": "haileymod:block/cytrus_slab_top"
+    },
+    "type=double": {
+      "model": "haileymod:block/cytrus_slab_full"
+    }
+  }
+}

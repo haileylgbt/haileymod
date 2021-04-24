@@ -1,0 +1,33 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "haileymod:cytrus_planks"
+    },
+    "3": {
+      "item": "haileymod:cytrus_planks"
+    },
+    "4": {
+      "item": "haileymod:cytrus_planks"
+    },
+    "6": {
+      "item": "haileymod:cytrus_planks"
+    },
+    "7": {
+      "item": "haileymod:cytrus_planks"
+    },
+    "8": {
+      "item": "haileymod:cytrus_planks"
+    }
+  },
+  "result": {
+    "item": "haileymod:cytrus_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "haileymod:hardened_halistone"
+    },
+    "1": {
+      "item": "haileymod:hardened_halistone"
+    },
+    "2": {
+      "item": "haileymod:hardened_halistone"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "haileymod:halistone_pickaxe",
+    "count": 1
+  }
+}

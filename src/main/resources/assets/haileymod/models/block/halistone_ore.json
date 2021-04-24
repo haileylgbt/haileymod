@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "haileymod:blocks/halistone_ore",
+    "particle": "haileymod:blocks/halistone_ore"
+  }
+}

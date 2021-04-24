@@ -1,0 +1,398 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HalistoneDust",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_dust"
+    },
+    {
+      "name": "HalistoneOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_ore"
+    },
+    {
+      "name": "HalistoneBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_block"
+    },
+    {
+      "name": "HalistoneOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_ore_block_recipe"
+    },
+    {
+      "name": "HalistoneBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_block_ore_recipe"
+    },
+    {
+      "name": "HalistoneOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_ore_smelting"
+    },
+    {
+      "name": "HalistonePickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_pickaxe"
+    },
+    {
+      "name": "HalistoneAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_axe"
+    },
+    {
+      "name": "HalistoneSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_sword"
+    },
+    {
+      "name": "HalistoneShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_shovel"
+    },
+    {
+      "name": "HalistoneHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_hoe"
+    },
+    {
+      "name": "HalistonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_pickaxe_recipe"
+    },
+    {
+      "name": "HalistoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_axe_recipe"
+    },
+    {
+      "name": "HalistoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_sword_recipe"
+    },
+    {
+      "name": "HalistoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_shovel_recipe"
+    },
+    {
+      "name": "HalistoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_hoe_recipe"
+    },
+    {
+      "name": "HalistoneArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HalistoneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_armor_helmet_recipe"
+    },
+    {
+      "name": "HalistoneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_armor_body_recipe"
+    },
+    {
+      "name": "HalistoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_armor_leggings_recipe"
+    },
+    {
+      "name": "HalistoneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halistone_armor_boots_recipe"
+    },
+    {
+      "name": "CytrusWood",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_wood"
+    },
+    {
+      "name": "CytrusLog",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_log"
+    },
+    {
+      "name": "CytrusPlanks",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_planks"
+    },
+    {
+      "name": "CytrusLeaves",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_leaves"
+    },
+    {
+      "name": "CytrusStairs",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_stairs"
+    },
+    {
+      "name": "CytrusSlab",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_slab"
+    },
+    {
+      "name": "CytrusFence",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_fence"
+    },
+    {
+      "name": "CytrusFenceGate",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_fence_gate"
+    },
+    {
+      "name": "CytrusItemsTag",
+      "type": "tag",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_items_tag"
+    },
+    {
+      "name": "CytrusWoodRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_wood_recipe"
+    },
+    {
+      "name": "CytrusPlanksRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_planks_recipe"
+    },
+    {
+      "name": "CytrusStairsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_stairs_recipe"
+    },
+    {
+      "name": "CytrusSlabRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_slab_recipe"
+    },
+    {
+      "name": "CytrusFenceRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_fence_recipe"
+    },
+    {
+      "name": "CytrusFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_fence_gate_recipe"
+    },
+    {
+      "name": "CytrusStickRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cytrus_stick_recipe"
+    },
+    {
+      "name": "Halistone",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_halistone"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.haileymod.hardened_halistone": "Hardened Halistone",
+      "item.haileymod.halistone_armor_boots": "Halistone Boots",
+      "item.haileymod.halistone_dust": "Halistone",
+      "item.haileymod.halistone_axe": "Halistone Axe",
+      "block.haileymod.cytrus_planks": "Cytrus Planks",
+      "item.haileymod.halistone_shovel": "Halistone Shovel",
+      "item.haileymod.halistone_armor_leggings": "Halistone Leggings",
+      "item.haileymod.halistone_pickaxe": "Halistone Pickaxe",
+      "block.haileymod.cytrus_fence_gate": "Cytrus Fence Gate",
+      "item.haileymod.halistone_armor_chestplate": "Halistone Chestplate",
+      "item.haileymod.halistone_sword": "Halistone Sword",
+      "block.haileymod.cytrus_slab": "Cytrus Slab",
+      "block.haileymod.cytrus_fence": "Cytrus Fence",
+      "block.haileymod.cytrus_stairs": "Cytrus Stairs",
+      "item.haileymod.halistone_armor_helmet": "Halistone Helmet",
+      "block.haileymod.cytrus_wood": "Cytrus Wood",
+      "block.haileymod.halistone_block": "Block of Halistone",
+      "item.haileymod.halistone_hoe": "Halistone Hoe",
+      "block.haileymod.halistone_ore": "Halistone Ore",
+      "block.haileymod.cytrus_log": "Cytrus Log",
+      "block.haileymod.cytrus_leaves": "Cytrus Leaves"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "haileymod",
+    "modName": "HaileyMod",
+    "version": "1.0.0",
+    "author": "hailey, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.hailey.haileymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

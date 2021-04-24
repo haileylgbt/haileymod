@@ -1,0 +1,13 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "haileymod:halistone_block"
+    }
+  ],
+  "result": {
+    "item": "haileymod:halistone_dust",
+    "count": 9
+  }
+}

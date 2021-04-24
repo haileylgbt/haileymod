@@ -1,0 +1,39 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "haileymod:halistone_dust"
+    },
+    "2": {
+      "item": "haileymod:halistone_dust"
+    },
+    "3": {
+      "item": "haileymod:halistone_dust"
+    },
+    "4": {
+      "item": "haileymod:halistone_dust"
+    },
+    "5": {
+      "item": "haileymod:halistone_dust"
+    },
+    "6": {
+      "item": "haileymod:halistone_dust"
+    },
+    "7": {
+      "item": "haileymod:halistone_dust"
+    },
+    "8": {
+      "item": "haileymod:halistone_dust"
+    }
+  },
+  "result": {
+    "item": "haileymod:halistone_armor_chestplate",
+    "count": 1
+  }
+}

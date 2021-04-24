@@ -1,0 +1,26 @@
+{
+  "group": "haileymod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "haileymod:halistone_dust"
+    },
+    "2": {
+      "item": "haileymod:halistone_dust"
+    },
+    "3": {
+      "item": "haileymod:halistone_dust"
+    },
+    "5": {
+      "item": "haileymod:halistone_dust"
+    }
+  },
+  "result": {
+    "item": "haileymod:halistone_armor_boots",
+    "count": 1
+  }
+}

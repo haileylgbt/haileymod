@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "haileymod:blocks/cytrus_planks",
+    "top": "haileymod:blocks/cytrus_planks",
+    "side": "haileymod:blocks/cytrus_planks"
+  }
+}

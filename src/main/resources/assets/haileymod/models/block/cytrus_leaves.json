@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "haileymod:blocks/cytrus_leaves",
+    "particle": "haileymod:blocks/cytrus_leaves"
+  }
+}
