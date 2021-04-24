@@ -1,7 +1,7 @@
 {
   "item.haileymod.hardened_halistone": "Hardened Halistone",
   "item.haileymod.halistone_armor_boots": "Halistone Boots",
-  "item.haileymod.halistone_dust": "Halistone",
+  "item.haileymod.halistone_dust": "Halistone Dust",
   "item.haileymod.halistone_axe": "Halistone Axe",
   "block.haileymod.cytrus_planks": "Cytrus Planks",
   "item.haileymod.halistone_shovel": "Halistone Shovel",
@@ -13,6 +13,7 @@
   "block.haileymod.cytrus_slab": "Cytrus Slab",
   "block.haileymod.cytrus_fence": "Cytrus Fence",
   "block.haileymod.cytrus_stairs": "Cytrus Stairs",
+  "biome.haileymod.cytrus_forest": "Cytrus Forest",
   "item.haileymod.halistone_armor_helmet": "Halistone Helmet",
   "block.haileymod.cytrus_wood": "Cytrus Wood",
   "block.haileymod.halistone_block": "Block of Halistone",
